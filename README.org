@@ -1,0 +1,6 @@
+#+TITLE: my_scripts --- Simple scripts that I sometimes use
+#+DATE: <2017-06-14 Wed>
+#+AUTHOR: Geoffrey T. Wark
+#+EMAIL: geoff@geoffwark.com
+
+Nothing too impressive.  Just things I use at startup or commands I can't be bothered to remember.
